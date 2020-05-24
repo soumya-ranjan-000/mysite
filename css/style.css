@@ -282,7 +282,7 @@ hr {
   }
 
  }
- @media (max-width: 765px){
+ @media (max-width: 500px){
   #skills{
     text-align: center;
   }
@@ -296,7 +296,6 @@ hr {
   }
   /* --------- */
   .content-2-img{
-    padding-top: ;
     width: 60%;
     position: relative;
 
